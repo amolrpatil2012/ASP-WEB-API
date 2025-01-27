@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "K6oMqlTEsDB52GGINmShtZBU3WjFNpjQVR7USoRzqJA=",
+  "Source": "DemoRestApi",
+  "BasePath": "_content/DemoRestApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
