@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|d:\\corporate training\\teamlease\\c#\\asp.net-onetomany\\asp.net-onetomany\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|solutionrelative:asp.net-onetomany\\controllers\\departmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|d:\\corporate training\\teamlease\\c#\\asp.net-onetomany\\asp.net-onetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|solutionrelative:asp.net-onetomany\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|d:\\corporate training\\teamlease\\c#\\asp.net-onetomany\\asp.net-onetomany\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|solutionrelative:asp.net-onetomany\\exceptions\\exceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|d:\\corporate training\\teamlease\\c#\\asp.net-onetomany\\asp.net-onetomany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|solutionrelative:asp.net-onetomany\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|d:\\corporate training\\teamlease\\c#\\asp.net-onetomany\\asp.net-onetomany\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|solutionrelative:asp.net-onetomany\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Migrations\\20250128032059_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASP.NET-ONETOMANY\\Migrations\\20250128032059_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|d:\\corporate training\\teamlease\\c#\\asp.net-onetomany\\asp.net-onetomany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|solutionrelative:asp.net-onetomany\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|d:\\corporate training\\teamlease\\c#\\asp.net-onetomany\\asp.net-onetomany\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{665BEBA2-E009-44C5-8C10-09BA5ABA1117}|ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY.csproj|solutionrelative:asp.net-onetomany\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Exceptions.cs",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Exceptions\\Exceptions.cs",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\Exceptions\\Exceptions.cs",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Exceptions\\Exceptions.cs",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\Exceptions\\Exceptions.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAywDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:35:54.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DepartmentsController.cs",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Controllers\\DepartmentsController.cs",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\Controllers\\DepartmentsController.cs",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Controllers\\DepartmentsController.cs*",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\Controllers\\DepartmentsController.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAABCwCkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:21:59.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250128032059_InitialCreate.cs",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Migrations\\20250128032059_InitialCreate.cs",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\Migrations\\20250128032059_InitialCreate.cs",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Migrations\\20250128032059_InitialCreate.cs",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\Migrations\\20250128032059_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:20:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Program.cs",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\Program.cs",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Program.cs",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:19:01.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\appsettings.json",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\appsettings.json",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-28T03:18:37.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:17:19.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\Models\\Employee.cs",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Models\\Employee.cs",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:16:46.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "ASP.NET-ONETOMANY\\Models\\Department.cs",
+              "ToolTip": "D:\\CORPORATE TRAINING\\TEAMLEASE\\C#\\ASP.NET-ONETOMANY\\ASP.NET-ONETOMANY\\Models\\Department.cs",
+              "RelativeToolTip": "ASP.NET-ONETOMANY\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-28T03:16:24.193Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

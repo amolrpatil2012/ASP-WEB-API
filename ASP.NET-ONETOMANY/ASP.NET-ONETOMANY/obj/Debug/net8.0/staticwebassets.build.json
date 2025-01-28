@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "5V2ZU3YbgX0GlWCM139G9muLwN81z/lbi2gFu67sCLw=",
+  "Source": "ASP.NET-ONETOMANY",
+  "BasePath": "_content/ASP.NET-ONETOMANY",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
